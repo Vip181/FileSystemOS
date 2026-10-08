@@ -1,0 +1,10 @@
+// Compte de 1 a 10
+int i = 1;
+tantque (i <= 10) {
+    si (i % 2 == 0) {
+        afficher(i + " est pair");
+    } sinon {
+        afficher(i + " est impair");
+    }
+    i = i + 1;
+}

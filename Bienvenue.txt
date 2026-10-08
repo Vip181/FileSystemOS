@@ -1,0 +1,6 @@
+Bienvenue dans File System OS !
+
+- Explorateur : '+ Fichier' et '+ Dossier' pour creer.
+- Editeur : Ctrl+S pour enregistrer, F5 pour executer un .fsl.
+- Ajoutez vos propres programmes .fsl dans \FSOS\Applications :
+  ils apparaissent automatiquement dans le menu.

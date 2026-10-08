@@ -1,0 +1,11 @@
+// Les variables nulles : 0/nul ou 0.nul
+int a = 0;       // le nombre zero
+int b = 0.nul;   // variable nulle
+int c;           // sans valeur : nulle aussi
+afficher("a = " + a);
+afficher("b = " + b);
+si (b == 0/nul) {
+    afficher("b est nulle");
+}
+b = 5;
+afficher("b vaut maintenant " + b);

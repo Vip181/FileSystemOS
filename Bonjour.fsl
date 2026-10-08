@@ -1,0 +1,3 @@
+// Mon premier programme en File Syst Langage
+texte nom = "File System OS";
+afficher("Bonjour depuis " + nom + " !");
